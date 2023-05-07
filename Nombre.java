@@ -5,6 +5,6 @@ public class Nombre {
         Scanner scan = new Scanner(System.in); 
         System.out.println("Ingrese su nombre");
         nombre=scan.nextLine();
-        System.out.println("Hola "+nombre+ " Bienvenido");
+        System.out.println("Hola "+nombre+ " Bienvenido. Es un gusto conocerlo");
     }
 }
